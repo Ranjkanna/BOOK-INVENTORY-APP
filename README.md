@@ -16,3 +16,4 @@ Descendant and child combinators
 :nth-child() pseudo-class selection
 linear-gradient() backgrounds
 inline-block display for custom-styled inline elements
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/864ec67e-12df-46ba-a203-497ab216f420" />
